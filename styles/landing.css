@@ -1,0 +1,7 @@
+ .navbar {
+ background-color: cadetblue;
+}
+
+.navbar-links  {
+   display: inline-block; 
+}
