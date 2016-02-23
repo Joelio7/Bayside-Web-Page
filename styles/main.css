@@ -1,0 +1,30 @@
+.navbar {
+   background-color: rgba(1, 12, 24,0.5);
+   height: 150px;
+
+} 
+
+.navbar-links {
+  display: table;
+  margin: 20px;
+  border-spacing: 5px;
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  min-width:960px;
+}
+
+.navbar-links .cell  {
+    display: table-cell;
+    color: white;
+    padding: 2rem;
+   
+}
+.hero-content {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    text-shadow: 2px 2px black;
+    float: left;
+    padding-right: 150px;
+}

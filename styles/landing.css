@@ -1,7 +1,54 @@
- .navbar {
- background-color: cadetblue;
+
+.landing {
+   background-color: rgb(1, 35, 69);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   margin: auto;
+   min-height: 100%;
 }
 
-.navbar-links  {
-   display: inline-block; 
+
+
+.main-points {
+  color: white;
+}
+
+.carousel .item {
+    max-height: 400px;
+    min-height: 300px;
+}
+
+.container {
+    padding-top: 10px;
+    padding-bottom: 700px;
+}
+
+.mission {
+    padding-top: 200px;
+    color: white;
+}
+
+
+.footer {
+    height: 300px;
+    width: 100%;
+    background-color: rgba(1, 12, 24,0.5);
+    margin-left: auto;
+    margin-right: auto;
+    min-width:960px;
+    
+    
+}
+
+.footer-content {
+    text-align: center;
+    color: white;
+    margin: auto;
+}
+
+.ion-social-facebook-outline,
+.ion-social-twitter-outline {
+    font-size: 3rem;
+    padding: 1rem;
+    
 }
